@@ -9,7 +9,7 @@ The default webapp search in the RunCloud interface has always been highly buggy
 without making any typos as the typeahead search experiences a tremendous amount of lag. This extension bypasses that by
 caching your webapp list locally, allowing for instant searches.
 
-## Configring Extension
+## Configuring Extension
 
 Log into your RunCloud account and navigate to your [API Key Settings Page](https://manage.runcloud.io/settings/apikey)
 to acquire the API Key and API Secret.
